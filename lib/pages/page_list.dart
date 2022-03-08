@@ -4,7 +4,7 @@ import 'package:minimal/components/components.dart';
 
 const String listItemTitleText = "Hello";
 const String listItemPreviewText =
-    "This is a homepage with no real content";
+    "This is a homepage with no real content 1";
 
 class ListPage extends StatelessWidget {
   @override
